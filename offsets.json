@@ -6,5 +6,6 @@
 	"ffilter" : "0x38AC3D8",
 	"fog" : "0x511928",
 	"cl_weather" : "0x3886148",
-	"radius" : "0x3883774"
+	"radius" : "0x3883774",
+	"url" : "True"
 }
